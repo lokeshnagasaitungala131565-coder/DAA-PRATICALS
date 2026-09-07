@@ -1,0 +1,15 @@
+Vertices: 6
+Edges: 5
+Enter edges:
+0 1
+1 2
+2 3
+3 4
+4 1
+Starting vertex: 0
+
+DFS: 0 1 2 3 4
+BFS: 0 1 2 4 3
+DFS Time: 26600 ns
+BFS Time: 1695300 ns
+Time Complexity: O(V + E)
