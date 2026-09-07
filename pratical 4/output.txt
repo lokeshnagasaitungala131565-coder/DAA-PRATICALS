@@ -1,0 +1,3 @@
+Enter a number: 5
+Factorial using Iterative Method: 120
+Factorial using Recursive Method: 120

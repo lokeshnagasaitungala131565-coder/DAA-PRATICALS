@@ -1,0 +1,3 @@
+Enter the sorted array elements: 10 20 30 40 50 60
+Enter the element to search: 40
+Element found at index 3.

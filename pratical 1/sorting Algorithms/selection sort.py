@@ -1,0 +1,17 @@
+def selection_sort(arr):
+    n = len(arr)
+
+    for i in range(n):
+        minimum = i
+
+        for j in range(i + 1, n):
+            if arr[j] < arr[minimum]:
+                minimum = j
+
+        arr[i], arr[minimum] = arr[minimum], arr[i]
+
+arr = [64, 25, 12, 22, 11]
+
+selection_sort(arr)
+
+print(arr)

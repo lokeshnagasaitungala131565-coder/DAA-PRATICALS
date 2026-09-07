@@ -1,0 +1,14 @@
+Enter the number of items: 4
+
+Enter value and weight of each item:
+Value of item 1: 60
+Weight of item 1: 10
+Value of item 2: 100
+Weight of item 2: 20
+Value of item 3: 120
+Weight of item 3: 30
+Value of item 4: 80
+Weight of item 4: 15
+
+Enter the knapsack capacity: 50
+Maximum value: 240
